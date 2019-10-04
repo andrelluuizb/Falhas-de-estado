@@ -2,3 +2,4 @@
 
  - [2019 - Golpe no SUS: Operação da PF mira fraude de verbas destinadas a próteses cardíacas](https://ndmais.com.br/noticias/golpe-no-sus-operacao-da-pf-mira-fraude-de-verbas-destinadas-a-proteses-cardiacas/)
  - [2019 - Conversas gravadas pelo MP-PR mostram como funcionava esquema de fraude à fila do SUS](https://g1.globo.com/pr/parana/noticia/2019/01/30/conversas-gravadas-pelo-mp-pr-mostram-como-funcionava-esquema-de-fraude-a-fila-do-sus.ghtml)
+ - [2016 - Paciente é chamada para consulta pelo SUS onze anos após ter morrido](http://g1.globo.com/bom-dia-brasil/noticia/2016/01/paciente-e-chamada-para-consulta-pelo-sus-onze-anos-apos-ter-morrido.html)
